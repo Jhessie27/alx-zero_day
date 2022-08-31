@@ -1,1 +1,9 @@
+
+echo 'ALX School' >alx
+
 ALX School is so cool!
+
+echo 'ALX School is so cool!' >>alx
+
+ALX School
+
